@@ -1,0 +1,6 @@
+framework module Pods_QZActivityIndicator_Tests {
+  umbrella header "Pods-QZActivityIndicator_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

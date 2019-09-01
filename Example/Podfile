@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'QZActivityIndicator_Example' do
+  pod 'QZActivityIndicator', :path => '../'
+
+  target 'QZActivityIndicator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

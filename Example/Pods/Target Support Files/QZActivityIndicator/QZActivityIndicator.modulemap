@@ -1,0 +1,6 @@
+framework module QZActivityIndicator {
+  umbrella header "QZActivityIndicator-umbrella.h"
+
+  export *
+  module * { export * }
+}

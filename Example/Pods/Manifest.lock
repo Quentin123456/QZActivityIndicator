@@ -1,0 +1,16 @@
+PODS:
+  - QZActivityIndicator (1.0.0)
+
+DEPENDENCIES:
+  - QZActivityIndicator (from `../`)
+
+EXTERNAL SOURCES:
+  QZActivityIndicator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QZActivityIndicator: 66079efa4a0ba58b64d0bbf0c7de6f8ecf61745f
+
+PODFILE CHECKSUM: fe886ac0229ceabaa187255b7c1c20b6426988a3
+
+COCOAPODS: 1.7.5
